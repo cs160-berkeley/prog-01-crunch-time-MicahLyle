@@ -1,10 +1,10 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Welcome to the CalorieConverter application. This is a simple app that allows the user to input an activity, the amount of time spent doing the activity or number of reps completed, and then automatically calculates the calories burned. Additionally, the app can give equivalent amounts of “exercise” between two different activities the user is able to select. 
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Micah Lyle ([micah.lyle@berkeley.edu](micah.lyle@berkeley.edu))
 
 ## Demo Video
 
