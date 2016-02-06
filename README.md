@@ -8,7 +8,7 @@ Micah Lyle ([micah.lyle@berkeley.edu](micah.lyle@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [the youtube video here] (https://www.youtube.com/watch?v=QQo-XfvrtXs)
 
 ## Screenshots
 
